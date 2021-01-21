@@ -1,3 +1,4 @@
+TEST
 # lab-web
 
 ## Project setup
